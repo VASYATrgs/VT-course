@@ -1,6 +1,7 @@
-a = 5
-b = 7
+a = input()
+b = input()
 print(a+b)
 print(a-b)
 print(a*b)
+
 
