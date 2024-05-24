@@ -21,3 +21,30 @@ print(first_letter)
 word1 = "umbrella"
 slice = word1[0:2]
 print(slice)
+
+a = "5"
+b = "5"
+e = a == b
+print(e)
+
+
+k = 6
+s = 9
+print(k / s)
+#if <условие>1
+
+if k == s:
+    print(k / s)
+    print(k / s)
+    print(k / s)
+else:
+    print(k * s)
+
+print("программа закончена")
+
+
+l = 666
+n = 999
+
+
+
