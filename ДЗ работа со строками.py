@@ -30,7 +30,7 @@ print(slice2, slice1)
 print(str(input()).replace(input(),""))
 
 
-name = str(input("Введите имя: "))
+name = input("Введите имя: ")
 age = int(input("Введите возраст: "))
 town = str(input("Введите город: "))
 greeting = f"Меня зовут, {name}. Мне {age} лет. Я живу в {town}"
