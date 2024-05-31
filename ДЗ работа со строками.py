@@ -6,12 +6,12 @@ b= slice
 print(a,b)
 
 
-#date=input('Enter a date(dd/mm/yyyy)')
-#replace=date.replace('/',' ')
-#convert=replace.split()
-#day=convert[1:2]
-#year=convert[2:4]
-#print("день",day)
+ #date=input('Enter a date(dd/mm/yyyy)')
+ #replace=date.replace('/',' ')
+ #convert=replace.split()
+ #day=convert[1:2]
+ #year=convert[2:4]
+ #print("день",day)
 
 date_string = input('Enter a date using the (dd.mm.yyyy) format: ')
 date_list = date_string.split('.')
