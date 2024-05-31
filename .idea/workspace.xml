@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fa8df7a-bcd9-4654-840e-52b562102c7d" name="Changes" comment="Задачи &#10;#1. Пользователь вводит число. (сделать с помощью int() и input())&#10;  Вам нужно написать:&#10;  условие                        что напечатать&#10;  число делится на 2              четное&#10;  число делится на 3              нечетное&#10;  число делится на 5              делится на 5&#10;  число делится на 17             делится на 17&#10;&#10;#2. Пользователь вводит положительное число. (сделать с помощью int() и input())&#10;  Посчитать сумму чисел от 1 до числа пользователей" />
+    <list default="true" id="a662cb49-fe8b-4063-8bb6-c992fe58d8f6" name="Changes" comment="задачи 1">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
