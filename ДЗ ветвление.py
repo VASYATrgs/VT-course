@@ -37,3 +37,21 @@ if( (year % 4) == 0):
 else:
 
     print("{0} невысокосный".format(year))
+
+
+import math
+a = int(input("Введите значение a= "))
+b = int(input("Введите значение b= "))
+j = int(input("Введите значение j= "))
+D = b ** 2 - 4 * a * j
+print(D)
+if D < 0:
+  print("Корней нет")
+elif D == 0:
+  x = -b / 2 * a
+  print (x)
+else:
+  x1 = (-b + math.sqrt(D)) / (2 * a)
+  x2 = (-b - math.sqrt(D)) / (2 * a)
+  print(x1)
+  print(x2)
