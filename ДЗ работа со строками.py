@@ -19,6 +19,9 @@ month = date_list[1]
 day = date_list[0]
 year_ = date_list[2]
 print(day, month, ',', year_ )
-input('Press enter to end: ')
 
 
+s="hello world"
+slice1=s[0:5]
+slice2=s[6:11]
+print(slice2, slice1)
