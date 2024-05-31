@@ -26,6 +26,7 @@ slice1=s[0:5]
 slice2=s[6:11]
 print(slice2, slice1)
 
+
 print(str(input()).replace(input(),""))
 
 
