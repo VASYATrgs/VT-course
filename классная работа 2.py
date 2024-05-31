@@ -25,10 +25,10 @@ for g in list_example:
     print(g)
 
 
-n = int(input())
+k = int(input())
 my_list = []
 s = 0
-while s < n:
+while s < k:
     number = int(input())
     my_list.append(number)
     s += 1
@@ -36,9 +36,10 @@ while s < n:
 my_list.sort()
 print(my_list)
 
-for i in range(n):
+for i in range(k):
      number = int(input())
      my_list.append(number)
+
 my_list.sort()
 print(my_list)
 
