@@ -1,13 +1,11 @@
-while True:
-  output = ""
-  num = int(input("введите число: "))
+#1 найти сумму всех чисел до n
+n = int(input("введите количество чисел которые вы хотите сложить: "))
+sum = 0
+for i in range(n):
+    x = int(input("введите число: "))
+    sum += x
 
-  if num == 0:
-    exit()
+print(sum)
 
-  for i in range(1, num+1):
-    output += "{}".format(i)
-    if i != num:
-      output += "+"
-  output += " = {}".format(sum(range(num+1)))
-  print (output)
+
+
