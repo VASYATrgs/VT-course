@@ -14,3 +14,4 @@ for elem in data:
 print(minimum)
 
 
+print(min([elem for elem in data if elem > 0]))
