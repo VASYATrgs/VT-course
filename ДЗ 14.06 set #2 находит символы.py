@@ -1,0 +1,5 @@
+m=set(input("введите символы:" ))
+n=set(input("введите символы:" ))
+a=list(m & n)
+a.sort()
+print(*a if a!=[] else 'NO', sep='')
