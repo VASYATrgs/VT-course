@@ -1,3 +1,8 @@
+# 1. Форматирование строки: Дана строка с именем и фамилией человека, разделёнными пробелом.
+# Написать программу, которая принимает эту строку и печатает ее в другом формате: фамилия, инициалы. Например,
+# "Иван Сидоров" преобразуется в "Сидоров И."
+
+
 string1 = "Иван Сидоров"
 first_letter= string1[0]
 a = first_letter
@@ -5,30 +10,52 @@ slice = string1[5:12]
 b= slice
 print(a,b)
 
+# 2. Парсинг даты: Дана строка, содержащая дату в формате "ДД-ММ-ГГГГ".
+# Написать программу, которая принимает эту строку и печатает в другом формате: (день, месяц, год).
+# здесь надо использовать преобразование  int в str и наоборот.
+#в1
 
- #date=input('Enter a date(dd/mm/yyyy)')
- #replace=date.replace('/',' ')
- #convert=replace.split()
- #day=convert[1:2]
- #year=convert[2:4]
- #print("день",day)
 
-date_string = input('Enter a date using the (dd.mm.yyyy) format: ')
-date_list = date_string.split('.')
+date_string = input('Enter a date using the (dd-mm-yyyy) format: ')
+date_list = date_string.split('-')
 month = date_list[1]
 day = date_list[0]
 year_ = date_list[2]
-print(day, month, ',', year_ )
+print(day, ',', month, ',', year_)
+#в2
+date = input('Enter a date using the (dd-mm-yyyy) format: ')
+print(date[0]+date[1]+","+date[3]+date[4]+","+date[6]+date[7]+date[8]+date[9])
 
+# 3. Обратный порядок слов: Дана строка, содержащая несколько слов, разделенных пробелами.
+# Написать программу, которая возвращает строку, в которой слова расположены в обратном порядке.
+# Например, "hello world" преобразуется в "world hello".
+#В1
 
 s="hello world"
 slice1=s[0:5]
 slice2=s[6:11]
 print(slice2, slice1)
 
-
 print(str(input()).replace(input(),""))
 
+# 4. Удаление подстроки: Дана строка и подстрока. Написать программу, которая удаляет все вхождения подстроки из строки.
+
+
+
+a = "Доброе утро! Сегодня прекрасный день!"
+b = "Сегодня прекрасный день!"
+c = a.split()
+d = b.split()
+
+for i in d:
+    if i in c:
+        c.remove(i)
+
+print(c)
+
+# 5. Формирование строки с использованием f-строки:
+# Написать программу, которая принимает имя, возраст и город проживания,
+# и печатает в формате: "Меня зовут [Имя]. Мне [Возраст] лет. Я живу в городе [Город]." используя f-строку.
 
 name = input("Введите имя: ")
 age = int(input("Введите возраст: "))
