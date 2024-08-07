@@ -5,69 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a662cb49-fe8b-4063-8bb6-c992fe58d8f6" name="Changes" comment="ДЗ от 31.05  &#10;зашифровку надо сделать и разобрать решение">
-      <change afterPath="$PROJECT_DIR$/Homework/14.06.2024 HW находит цифрыб  находит символы натуральные числа встречаются и нет в обоих.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/23.07.2024 Figure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/HW 14.06 V2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/02.08.2024 Telgram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/18.06 CW LAMBDA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/23.07.03 Рисование фигур Thinker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/23.07.2024 Classwork Создание книги.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/23.07.2024 class library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/23.07.2024 figure 2 v.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/Book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/Class Library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/тест 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/тест.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Old/треугольник вычисление координат + рисование.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VT-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VT-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_05_2024_19_33_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_05_2024_19_33__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_05_2024_20_17_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_05_2024_20_17__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.06 Задача 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 Задача 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.06 Задача 3 Нечетное число.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 Задача 3 Нечетное число.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.06 Задача на множество SET.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 Задача на множество SET.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.06 Классная работа задача 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 Классная работа задача 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.06 количество положительных.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 количество положительных.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.06.2024 Var 3 положительные числа.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06.2024 Var 3 положительные числа.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.06 Классная работа задача один на списки.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/14.06 Классная работа задача один на списки.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW  Ветвление и цикл While 29.05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/29.05.2024  Ветвление и цикл While.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW 14.06 Задача 1 создания регистрации.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 14.06 Задача 1 создания регистрации.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW 31.05 Cумма Цифр + Подсчет гласных КМБ зашифровка ( не решена) .py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/31.05.2024 Cумма Цифр + Подсчет гласных КМБ зашифровка .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW 31.05 Cумма Цифр + Подсчет гласных.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ цикл for # 1. Сумма цифр в числе.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first" beforeDir="false" afterPath="$PROJECT_DIR$/Old/first" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/first 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/print input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ # кмб 3 2 игрока.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ # кмб 3 2 игрока.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ #3 камень ножницы бумага вариант с while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ #3 камень ножницы бумага вариант с while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ #3 камень ножницы бумага через random.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ #3 кмб вариант с функцией.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ #3 кмб вариант с функцией.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 14.06  set №1 Два списка чисел до 100000.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 14.06  set №1 Два списка чисел до 100000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 14.06 # 1 регистрация логин пароль.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 14.06 # 1 регистрация логин пароль.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 14.06 set #2 находит символы.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 14.06 set #2 находит символы.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 14.06 set #3 натуральные числа встречаются и нет в обоих.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 14.06 Разработать систему  словарь логин пароль #1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 14.06 Разработать систему  словарь логин пароль #1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 3 камень ножницы 2 игрока.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 3 камень ножницы 2 игрока.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ while #2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ while #2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ while# Простое или сложное.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ while# Простое или сложное.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ while#3Факториал.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ while#3Факториал.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ Цикл while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ Цикл while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ ветвление.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ ветвление.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ пользователь вводит число  Пользователь вводит число. (сделать с помощью int() и input()).py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ пользователь вводит число  Пользователь вводит число. (сделать с помощью int() и input()).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ работа со строками.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/ДЗ работа со строками.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ цикл for # 1. Сумма цифр в числе.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ цикл for #2 подсчет гласных.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ цикл for #2 подсчет гласных.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Классная работа 31.05.2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Классная работа 31.05.2024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Самостоятельная циклы.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Самостоятельная циклы.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/задачи 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/задачи 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/задачи 28.05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/задачи 28.05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/классная работа 2 31.05.2024" beforeDir="false" afterPath="$PROJECT_DIR$/Old/классная работа 2 31.05.2024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/классная работа 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/классная работа 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/команды 2405.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/команды 2405.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тест.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +118,7 @@
       <recent name="C:\Users\ddt-s\PycharmProjects\VT-course" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BAD BOY\PycharmProjects\VT-course\Old" />
       <recent name="C:\Users\BAD BOY\PycharmProjects\VT-course\Homework" />
     </key>
   </component>
@@ -495,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718696131546</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="ДЗ от 31.05  &#10;зашифровку надо сделать и разобрать решение">
+      <option name="closed" value="true" />
+      <created>1723011444493</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1723011444493</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
