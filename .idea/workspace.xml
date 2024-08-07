@@ -4,21 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a662cb49-fe8b-4063-8bb6-c992fe58d8f6" name="Changes" comment="задачи 1">
-      <change afterPath="$PROJECT_DIR$/04.06.2024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.06.2024 задача на картинку и словарь.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_5454194002032190823_y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/photo_5454194002032190823_y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/photo_5454194002032190824_y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/photo_5454194002032190825_y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/photo_5454194002032190826_y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/photo_5454194002032190827_y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/квадрат.py" afterDir="false" />
+    <list default="true" id="a662cb49-fe8b-4063-8bb6-c992fe58d8f6" name="Changes" comment="ДЗ от 31.05  &#10;зашифровку надо сделать и разобрать решение">
+      <change afterPath="$PROJECT_DIR$/Homework/14.06.2024 HW находит цифрыб  находит символы натуральные числа встречаются и нет в обоих.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/23.07.2024 Figure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW 14.06 V2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/02.08.2024 Telgram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/18.06 CW LAMBDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/23.07.03 Рисование фигур Thinker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/23.07.2024 Classwork Создание книги.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/23.07.2024 class library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/23.07.2024 figure 2 v.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/Book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/Class Library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/тест 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/тест.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/треугольник вычисление координат + рисование.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VT-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VT-course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_05_2024_19_33_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_05_2024_19_33__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_05_2024_20_17_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_05_2024_20_17__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.06 Задача 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 Задача 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.06 Задача 3 Нечетное число.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 Задача 3 Нечетное число.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.06 Задача на множество SET.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 Задача на множество SET.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.06 Классная работа задача 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 Классная работа задача 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.06 количество положительных.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06 количество положительных.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.06.2024 Var 3 положительные числа.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/11.06.2024 Var 3 положительные числа.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.06 Классная работа задача один на списки.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/14.06 Классная работа задача один на списки.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW  Ветвление и цикл While 29.05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/29.05.2024  Ветвление и цикл While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 14.06 Задача 1 создания регистрации.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW 14.06 Задача 1 создания регистрации.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 31.05 Cумма Цифр + Подсчет гласных КМБ зашифровка ( не решена) .py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/31.05.2024 Cумма Цифр + Подсчет гласных КМБ зашифровка .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 31.05 Cумма Цифр + Подсчет гласных.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ цикл for # 1. Сумма цифр в числе.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first" beforeDir="false" afterPath="$PROJECT_DIR$/Old/first" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/first 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/print input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ # кмб 3 2 игрока.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ # кмб 3 2 игрока.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ #3 камень ножницы бумага вариант с while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ #3 камень ножницы бумага вариант с while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ #3 камень ножницы бумага через random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ #3 кмб вариант с функцией.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ #3 кмб вариант с функцией.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 14.06  set №1 Два списка чисел до 100000.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 14.06  set №1 Два списка чисел до 100000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 14.06 # 1 регистрация логин пароль.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 14.06 # 1 регистрация логин пароль.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 14.06 set #2 находит символы.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 14.06 set #2 находит символы.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 14.06 set #3 натуральные числа встречаются и нет в обоих.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 14.06 Разработать систему  словарь логин пароль #1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 14.06 Разработать систему  словарь логин пароль #1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 3 камень ножницы 2 игрока.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ 3 камень ножницы 2 игрока.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ while #2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ while #2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ while# Простое или сложное.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ while# Простое или сложное.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ while#3Факториал.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ while#3Факториал.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ Цикл while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ Цикл while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ ветвление.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ ветвление.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ пользователь вводит число  Пользователь вводит число. (сделать с помощью int() и input()).py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ пользователь вводит число  Пользователь вводит число. (сделать с помощью int() и input()).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ работа со строками.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/ДЗ работа со строками.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ цикл for # 1. Сумма цифр в числе.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ цикл for #2 подсчет гласных.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ДЗ цикл for #2 подсчет гласных.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Классная работа 31.05.2024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Классная работа 31.05.2024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Самостоятельная циклы.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Самостоятельная циклы.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/задачи 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/задачи 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/задачи 28.05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/задачи 28.05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/классная работа 2 31.05.2024" beforeDir="false" afterPath="$PROJECT_DIR$/Old/классная работа 2 31.05.2024" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/классная работа 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/классная работа 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/команды 2405.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/команды 2405.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тест.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +99,12 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/VASYATrgs/VT-course.git&quot;,
-    &quot;accountId&quot;: &quot;cc143a70-e226-4efb-953c-063743984d84&quot;
+    &quot;accountId&quot;: &quot;abfb8993-b95c-42bc-b045-161d1f849b4e&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/23.07.2024 Figure.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -60,33 +112,75 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2gmyzFTbAASuFfIWQLQyg9lfHHr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.04.06.2024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.22.06.2024 задача на картинку и словарь.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.08.2024 Telgram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.06 Задача 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.06 Задача 3 Нечетное число.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.06 Задача на множество SET.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.06 Классная работа задача 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.06 количество положительных.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.06 Классная работа задача один на списки.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18.06 CW LAMBDA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.07.03 Рисование фигур Thinker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.07.2024 Classwork Создание книги.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.07.2024 Figure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.07.2024 class library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.07.2024 figure 2 v.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class Library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW  Ветвление и цикл 29.05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 14.06 V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 14.06 Задача 1 создания регистрации.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 31.05 Cумма Цифр + Подсчет гласных.executor&quot;: &quot;Run&quot;,
     &quot;Python.first 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.print input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ # кмб 3 2 игрока.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ #3 камень ножницы бумага вариант с while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ #3 камень ножницы бумага через random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ #3 кмб вариант с функцией.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ 14.06  set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ 14.06 # 1 регистрация логин пароль.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ 14.06 set #2 находит символы.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ 14.06 set #3 натуральные числа встречаются и нет в обоих.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ 14.06 Разработать систему  словарь логин пароль #1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ 3 камень ножницы 2 игрока.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ while #2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ while# Простое или сложное.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ while#3Факториал.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ Цикл while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ ветвление.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ работа со строками.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ цикл for # 1. Сумма цифр в числе.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ цикл for #2 подсчет гласных.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Классная работа 31.05.2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Самостоятельная циклы.executor&quot;: &quot;Run&quot;,
     &quot;Python.задачи 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.квадрат.executor&quot;: &quot;Run&quot;,
+    &quot;Python.классная работа 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.тест 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.тест.executor&quot;: &quot;Run&quot;,
+    &quot;Python.треугольник вычисление координат + рисование.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ddt-s/PycharmProjects/VT-course&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/BAD BOY/PycharmProjects/VT-course&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BAD BOY\PycharmProjects\VT-course" />
       <recent name="C:\Users\ddt-s\PycharmProjects\VT-course" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ddt-s\PycharmProjects\VT-course\photos" />
-      <recent name="C:\Users\ddt-s\PycharmProjects\VT-course" />
+      <recent name="C:\Users\BAD BOY\PycharmProjects\VT-course\Homework" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -185,7 +279,223 @@
       <option name="project" value="LOCAL" />
       <updated>1716915177041</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="исправил int на str так как ввожу сроку">
+      <option name="closed" value="true" />
+      <created>1717169761437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717169761437</updated>
+    </task>
+    <task id="LOCAL-00012" summary="добавлено квадратное уравнение с вводом переменных">
+      <option name="closed" value="true" />
+      <created>1717170139643</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717170139643</updated>
+    </task>
+    <task id="LOCAL-00013" summary="задача 1 по while но не правильн орешается так как введена 1 и тогда пишет сумма 1">
+      <option name="closed" value="true" />
+      <created>1717171342099</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717171342099</updated>
+    </task>
+    <task id="LOCAL-00014" summary="классная работы примеры while и цикл for">
+      <option name="closed" value="true" />
+      <created>1717177286839</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717177286839</updated>
+    </task>
+    <task id="LOCAL-00015" summary="классная работы примеры while и цикл for и списки">
+      <option name="closed" value="true" />
+      <created>1717178463992</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717178463992</updated>
+    </task>
+    <task id="LOCAL-00016" summary="классная работы примеры while и цикл for и списки">
+      <option name="closed" value="true" />
+      <created>1717182221460</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1717182221460</updated>
+    </task>
+    <task id="LOCAL-00017" summary="добавлены домашки">
+      <option name="closed" value="true" />
+      <created>1717317315352</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717317315352</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ДЗ for сумма цифр числа 2 варианта">
+      <option name="closed" value="true" />
+      <created>1717402182398</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717402182398</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ДЗ for подсчет гласных букв">
+      <option name="closed" value="true" />
+      <created>1717403058389</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717403058389</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ДЗ while камень ножницы бумаги 2 варианта">
+      <option name="closed" value="true" />
+      <created>1717500235013</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717500235013</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ДЗ while камень ножницы бумаги 2 варианта">
+      <option name="closed" value="true" />
+      <created>1717501504353</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717501504353</updated>
+    </task>
+    <task id="LOCAL-00022" summary="11.06 классная работа">
+      <option name="closed" value="true" />
+      <created>1718125234596</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718125234596</updated>
+    </task>
+    <task id="LOCAL-00023" summary="11.06 классная работа задача на минимальный элемент в списке">
+      <option name="closed" value="true" />
+      <created>1718125876182</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1718125876182</updated>
+    </task>
+    <task id="LOCAL-00024" summary="11.06 классная работа задача на минимальный элемент в списке">
+      <option name="closed" value="true" />
+      <created>1718126022055</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1718126022055</updated>
+    </task>
+    <task id="LOCAL-00025" summary="11.06 Залача 3 нечетное число">
+      <option name="closed" value="true" />
+      <created>1718126188312</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718126188312</updated>
+    </task>
+    <task id="LOCAL-00026" summary="11.06 Залача на множество SET">
+      <option name="closed" value="true" />
+      <created>1718132891434</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1718132891434</updated>
+    </task>
+    <task id="LOCAL-00027" summary="самостоятельный разбор цикла фор и вайл">
+      <option name="closed" value="true" />
+      <created>1718291006483</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1718291006483</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Даны два списка чисел, которые могут содержать до 10000 чисел каждый. Выведите все числа, которые входят как в первый, так и во второй список в порядке возрастания.">
+      <option name="closed" value="true" />
+      <created>1718378058830</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1718378058830</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Задача 1 и 2">
+      <option name="closed" value="true" />
+      <created>1718379196318</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1718379196318</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Задача 3">
+      <option name="closed" value="true" />
+      <created>1718382638830</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1718382638830</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Задача 3">
+      <option name="closed" value="true" />
+      <created>1718526636811</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1718526636812</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Задача 3">
+      <option name="closed" value="true" />
+      <created>1718533221088</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1718533221088</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Разработайте систему, поддерживающую следующие команды в терминале:&#10;пункт ввод пароля, авторищация  смена пароля,">
+      <option name="closed" value="true" />
+      <created>1718539830354</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1718539830354</updated>
+    </task>
+    <task id="LOCAL-00034" summary="HW 1 работа со строками">
+      <option name="closed" value="true" />
+      <created>1718691599516</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1718691599516</updated>
+    </task>
+    <task id="LOCAL-00035" summary="ДЗ цикл for 2 задачи">
+      <option name="closed" value="true" />
+      <created>1718692676282</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1718692676282</updated>
+    </task>
+    <task id="LOCAL-00036" summary="ДЗ от 29.05 ветвление и цикл While">
+      <option name="closed" value="true" />
+      <created>1718695240055</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1718695240055</updated>
+    </task>
+    <task id="LOCAL-00037" summary="ДЗ от 31.05  &#10;зашифровку надо сделать и разобрать решение">
+      <option name="closed" value="true" />
+      <created>1718696131546</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1718696131546</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,26 +522,64 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="создал 2 файл" />
-    <MESSAGE value="создал 2 файл 24.05" />
-    <MESSAGE value="добавлены переменный и расчет" />
     <MESSAGE value="добавлены слайсы" />
     <MESSAGE value="добавил выражения if" />
     <MESSAGE value="задачи 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="задачи 1" />
+    <MESSAGE value="исправил int на str так как ввожу сроку" />
+    <MESSAGE value="добавлено квадратное уравнение с вводом переменных" />
+    <MESSAGE value="задача 1 по while но не правильн орешается так как введена 1 и тогда пишет сумма 1" />
+    <MESSAGE value="классная работы примеры while и цикл for" />
+    <MESSAGE value="классная работы примеры while и цикл for и списки" />
+    <MESSAGE value="добавлены домашки" />
+    <MESSAGE value="ДЗ for сумма цифр числа 2 варианта" />
+    <MESSAGE value="ДЗ for подсчет гласных букв" />
+    <MESSAGE value="ДЗ while камень ножницы бумаги 2 варианта" />
+    <MESSAGE value="11.06 классная работа" />
+    <MESSAGE value="11.06 классная работа задача на минимальный элемент в списке" />
+    <MESSAGE value="11.06 Залача 3 нечетное число" />
+    <MESSAGE value="11.06 Залача на множество SET" />
+    <MESSAGE value="самостоятельный разбор цикла фор и вайл" />
+    <MESSAGE value="Даны два списка чисел, которые могут содержать до 10000 чисел каждый. Выведите все числа, которые входят как в первый, так и во второй список в порядке возрастания." />
+    <MESSAGE value="Задача 1 и 2" />
+    <MESSAGE value="Задача 3" />
+    <MESSAGE value="Разработайте систему, поддерживающую следующие команды в терминале:&#10;пункт ввод пароля, авторищация  смена пароля," />
+    <MESSAGE value="HW 1 работа со строками" />
+    <MESSAGE value="ДЗ цикл for 2 задачи" />
+    <MESSAGE value="ДЗ от 29.05 ветвление и цикл While" />
+    <MESSAGE value="ДЗ от 31.05  &#10;зашифровку надо сделать и разобрать решение" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ от 31.05  &#10;зашифровку надо сделать и разобрать решение" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/22.06.2024 задача на картинку и словарь.py</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/Old/11.06 Задача 2.py</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/22.06.2024 задача на картинку и словарь.py</url>
-          <line>7</line>
+          <url>file://$PROJECT_DIR$/Old/ДЗ 14.06  set №1 Два списка чисел до 100000.py</url>
+          <line>9</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Homework/ДЗ работа со строками.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Homework/23.07.2024 Figure.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Homework/23.07.2024 Figure.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Old/23.07.2024 figure 2 v.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
